@@ -22,6 +22,10 @@ public record ListChampionsUseCase(ChampionsRepository repository) {
 //Entao podemos ter regras de dominio e regras de aplicação(pode ser alguma regra de negocio especifica)
 
 // Regras de dominio - é mais alguma regra relacionada a persistencia daquele de dado ou de manipulação daquele informação
-/*Na linha 5 qual o repositorio tem como dependecia, é o repositorio de dominio, o facto do meu useCase reconhecer só a interface d repositorio faz com que ela não conheça directamente o framework de persistencia que nós estamos usando para persistencia.
+/*Na linha 8 qual o repositorio tem como dependecia, é o repositorio de dominio, o facto do meu useCase reconhecer só a interface d repositorio faz com que ela não conheça directamente o framework de persistencia que nós estamos usando para persistencia.
 
  */
+
+
+
+
