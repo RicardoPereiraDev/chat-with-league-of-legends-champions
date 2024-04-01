@@ -2,6 +2,9 @@
 
 ## Visão geral da arquitectura, de como iria implementar a 1ª parte do projecto.
 
+![image](https://github.com/RicardoPereiraDev/chat-with-league-of-legends-champions/assets/155699805/aee63bc5-5a9d-4569-bee1-ff567d92a68d)
+
+
 Basicamente construi um projecto do Zero usando Spring initializer, configurei um arquivo “application.yml” e um arquivo de “data.sql” e com isso já tenho o banco de dados carregado com as informações que irei precisar.
 
 Vou querer usar uma API, conectar com o banco de dados em memoria e irei comunicar com uma API externa.
